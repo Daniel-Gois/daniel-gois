@@ -1,16 +1,30 @@
-### Hi there 👋
+## Hello World 👋
 
-<!--
-**Daniel-Gois/daniel-gois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Prazer, sou Daniel Góis
 
-Here are some ideas to get you started:
+Engenheiro de Produção e Gerenciamento de Projetos, com MBA em Administração, Finanças e Negócios
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Desenvolvedor Front-end rumo a Fullstack.
+
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=daniel-gois&show_icons=true&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daniel-gois&layout=compact&theme=dark"/>
+</div>
+
+### 💻 Let's get connected:
+
+[![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-de-meira-g%C3%B3is-72057631/)
+[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Daniel-Gois)
+[![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/danielmgois/)
+[![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danielmgois@gmail.com)
+
+### 🛠️ Tecnologies e Tools I use:
+
+<div>
+  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+ </div>
