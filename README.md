@@ -22,9 +22,9 @@ Desenvolvedor Front-end rumo a Fullstack.
 ### 🛠️ Tecnologies e Tools I use:
 
 <div>
-  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
-  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
-  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg"/>
-  <img align="centeer" alt="Daniel-html" height="30" widht="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+  <img align="centeer" alt="Daniel-html" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-original-wordmark.svg"/>
+  <img align="centeer" alt="Daniel-html" height="60" widht="20" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
  </div>
