@@ -2,9 +2,9 @@
 
 Prazer, sou Daniel Góis
 
-Engenheiro de Produção e Gerenciamento de Projetos, com MBA em Administração, Finanças e Negócios
+Desenvolvedor Front-end rumo a Fullstack
 
-Desenvolvedor Front-end rumo a Fullstack.
+Engenheiro de Produção e Gerenciamento de Projetos, com MBA em Administração, Finanças e Negócios.
 
 
 <div>
